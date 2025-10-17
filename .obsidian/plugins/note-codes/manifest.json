@@ -1,0 +1,11 @@
+{
+	"id": "note-codes",
+	"name": "Note Codes",
+	"version": "0.0.2",
+	"minAppVersion": "0.15.0",
+	"description": "Reference your notes from anywhere with simple 4-character codes.",
+	"author": "Ezhik",
+	"authorUrl": "https://ezhik.jp",
+	"fundingUrl": "https://ezhik.jp/donate",
+	"isDesktopOnly": false
+}

@@ -1,0 +1,20 @@
+{
+  "dateFormat": "yyyy-MM-dd'T'HH:mm",
+  "enableCreateTime": true,
+  "headerUpdated": "updated",
+  "headerCreated": "created",
+  "minMinutesBetweenSaves": 1,
+  "ignoreGlobalFolder": [
+    "Attachments",
+    "templates"
+  ],
+  "ignoreCreatedFolder": [
+    "Attachments",
+    "templates"
+  ],
+  "enableExperimentalHash": true,
+  "fileHashMap": {
+    "Abkürzungen.md": "ca483ecbcd303e984cb8fd443900d44770d6d8c11198c2d0fbe4c62474adc3ca",
+    "Home.md": "bb25dd9f00f46210eff5e837175d6f18e953843489bbe54a31a349bcecad174a"
+  }
+}

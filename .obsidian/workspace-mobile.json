@@ -1,0 +1,187 @@
+{
+  "main": {
+    "id": "2e97b6cf1ed597b4",
+    "type": "split",
+    "children": [
+      {
+        "id": "5af5c590d754d06d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4eb129976312420b",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d5ad4943ffb53b3f",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "c7107c5b4530fcf8",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical",
+            "autoReveal": false
+          },
+          "icon": "lucide-folder-closed",
+          "title": "Files"
+        }
+      },
+      {
+        "id": "aa7df985e190dc8f",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          },
+          "icon": "lucide-search",
+          "title": "Search"
+        }
+      },
+      {
+        "id": "6ddd9b4978836e48",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true,
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-tags",
+          "title": "Tags"
+        }
+      },
+      {
+        "id": "71d8db136c560512",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {},
+          "icon": "lucide-bookmark",
+          "title": "Bookmarks"
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "df8591bc001ee84a",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "dc2cf5fd86a0412e",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-coming-in",
+          "title": "Backlinks"
+        }
+      },
+      {
+        "id": "7a9c18bb268dea47",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-going-out",
+          "title": "Outgoing links"
+        }
+      },
+      {
+        "id": "fd5d8772043450fe",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "followCursor": false,
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-list",
+          "title": "Outline"
+        }
+      },
+      {
+        "id": "069b80667a318aab",
+        "type": "leaf",
+        "state": {
+          "type": "footnotes",
+          "state": {
+            "file": "Abkürzungen.md"
+          },
+          "icon": "lucide-file-signature",
+          "title": "Footnotes"
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "workspaces:Manage workspace layouts": false,
+      "templater-obsidian:Templater": false,
+      "remotely-save:Remotely Save": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "4eb129976312420b",
+  "lastOpenFiles": [
+    "Welcome.md",
+    "Attachments/banner",
+    "Abkürzungen.md",
+    "templates/Abkürzung.md",
+    "CS/OS/IO/assets",
+    "CS/OS/CPU/assets",
+    "CS/OS/Memory/assets",
+    "CS/OS/Process/assets",
+    "CS/OS/Interrupt/assets",
+    "CS/OS/System Call/assets",
+    "CS/OS/File System/assets",
+    "CS/OS/UNIX vs Linux/assets",
+    "CS/OS/Synchronization/assets",
+    "create a link.md",
+    "CS/OS/Synchronization/assets/corporative_scheduling_cpu_hogging.gif",
+    "CS/Software Engineering/Managing Complexity/Software Development Practices.md",
+    "CS/Software Engineering/SOLID Design Principles/Liskov Substitution Principle (LSP).md",
+    "CS/Software Engineering/Code Management/Mono Repos/Monorepo Build System.md",
+    "CS/Software Engineering/Monitoring/Application Performance Monitoring (APM).md"
+  ]
+}
