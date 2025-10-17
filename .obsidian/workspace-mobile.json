@@ -1,20 +1,24 @@
 {
   "main": {
-    "id": "2e97b6cf1ed597b4",
+    "id": "5324373015726ba8",
     "type": "split",
     "children": [
       {
-        "id": "5af5c590d754d06d",
+        "id": "4509724f8bf84da7",
         "type": "tabs",
         "children": [
           {
-            "id": "4eb129976312420b",
+            "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Home.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Home"
             }
           }
         ]
@@ -80,6 +84,20 @@
           "icon": "lucide-bookmark",
           "title": "Bookmarks"
         }
+      },
+      {
+        "id": "5e994d4d0e7cecc0",
+        "type": "leaf",
+        "state": {
+          "type": "all-properties",
+          "state": {
+            "sortOrder": "frequency",
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-archive",
+          "title": "All properties"
+        }
       }
     ],
     "currentTab": 0
@@ -144,12 +162,24 @@
           "icon": "lucide-file-signature",
           "title": "Footnotes"
         }
+      },
+      {
+        "id": "dca274c3d5cf6e49",
+        "type": "leaf",
+        "state": {
+          "type": "git-view",
+          "state": {},
+          "icon": "git-pull-request",
+          "title": "Source Control"
+        }
       }
     ],
-    "currentTab": 0
+    "currentTab": 4
   },
   "left-ribbon": {
     "hiddenItems": {
+      "homepage:Open homepage": false,
+      "obsidian-git:Open Git source control": false,
       "workspaces:Manage workspace layouts": false,
       "templater-obsidian:Templater": false,
       "remotely-save:Remotely Save": false,
@@ -157,13 +187,13 @@
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "bases:Create new base": false
     }
   },
-  "active": "4eb129976312420b",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "Home.md",
     "Welcome.md",
     "Attachments/banner",
     "Abkürzungen.md",
